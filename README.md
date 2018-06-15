@@ -1,18 +1,9 @@
-# webpack-4-quickstart
-> Webpack 4 tutorial: All You Need to Know, from 0 Conf to Production Mode
-
-[![Donate](https://img.shields.io/badge/donate-patreon-orange.svg)](https://www.patreon.com/valentinogagliardi)
-[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](LICENSE)
-
-## Development
-
-```bash
-npm i && npm run start
-```
+# Awesome react project (not really)
+> branch per project. Different mini practice projects
 
 ## Meta
 
-Valentino Gagliardi - [valentinog.com](https://www.valentinog.com) - valentino@valentinog.com
+* master branch - Basic React + Redux tutorial, based on [This tutorial](https://www.valentinog.com/blog/react-redux-tutorial-beginners) by Valentino Gagliardi - [valentinog.com](https://www.valentinog.com) - valentino@valentinog.com
 
 ## License
 
